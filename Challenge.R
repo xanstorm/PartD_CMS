@@ -41,6 +41,6 @@ opio1<-aggregate(data$OPIOID_BENE_COUNT, by=list(state=data$NPPES_PROVIDER_STATE
 #What is the largest such ratio? 
 14.6513104280 #I used Excel for this one, too.
 
-#I was not able to unzip and load the 2013 data, unfortunately.
+#I was not able to unzip and load the 2013 data, unfortunately. It was a file format I could not open.
 
 
